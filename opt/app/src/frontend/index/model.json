@@ -1,0 +1,12 @@
+{
+    "tasks":[
+        {
+            "title": "Crear UserController",
+            "description": "Crear el controlador de User con todos lo métodos unitarios necesarios"
+        },
+        {
+            "title": "Crear UserService",
+            "description": "Crear el servicio de User, además de realizar el repositorio y completar los test unitarios correspondientes"
+        }
+    ]
+}
